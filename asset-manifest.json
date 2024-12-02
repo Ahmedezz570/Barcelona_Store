@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Barcelona_Store/static/css/main.6d25df0b.css",
+    "main.js": "/Barcelona_Store/static/js/main.e9b97352.js",
+    "static/js/453.8ab44547.chunk.js": "/Barcelona_Store/static/js/453.8ab44547.chunk.js",
+    "static/media/product_4.png": "/Barcelona_Store/static/media/product_4.ea0420ca9cec08d6df05.png",
+    "static/media/product_2.png": "/Barcelona_Store/static/media/product_2.d4e74f367160ec10fb34.png",
+    "static/media/product_1.png": "/Barcelona_Store/static/media/product_1.5a757396ee7ff5dd91c1.png",
+    "static/media/product_3.png": "/Barcelona_Store/static/media/product_3.be48863df18b272b8f59.png",
+    "static/media/OIP.jpg": "/Barcelona_Store/static/media/OIP.7a3e9b1886ddb1de875f.jpg",
+    "static/media/th (2).jpg": "/Barcelona_Store/static/media/th (2).f95a06328e2ed1c0a25c.jpg",
+    "static/media/th (3).jpg": "/Barcelona_Store/static/media/th (3).d90d41327f47f128e2dc.jpg",
+    "static/media/th.jpg": "/Barcelona_Store/static/media/th.2098355830e86412dace.jpg",
+    "static/media/th (1).jpg": "/Barcelona_Store/static/media/th (1).d8c73e0026fe432837e9.jpg",
+    "index.html": "/Barcelona_Store/index.html",
+    "main.6d25df0b.css.map": "/Barcelona_Store/static/css/main.6d25df0b.css.map",
+    "main.e9b97352.js.map": "/Barcelona_Store/static/js/main.e9b97352.js.map",
+    "453.8ab44547.chunk.js.map": "/Barcelona_Store/static/js/453.8ab44547.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6d25df0b.css",
+    "static/js/main.e9b97352.js"
+  ]
+}
